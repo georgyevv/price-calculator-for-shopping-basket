@@ -1,0 +1,136 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ShoppingBasket.BussinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ShoppingBasket.Common": "1.0.0",
+          "ShoppingBasket.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShoppingBasket.BussinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingBasket.BussinessLogic.dll": {}
+        }
+      },
+      "ShoppingBasket.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ShoppingBasket.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingBasket.Common.dll": {}
+        }
+      },
+      "ShoppingBasket.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ShoppingBasket.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingBasket.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShoppingBasket.BussinessLogic/1.0.0": {
+      "type": "project",
+      "path": "../ShoppingBasket.BussinessLogic/ShoppingBasket.BussinessLogic.csproj",
+      "msbuildProject": "../ShoppingBasket.BussinessLogic/ShoppingBasket.BussinessLogic.csproj"
+    },
+    "ShoppingBasket.Common/1.0.0": {
+      "type": "project",
+      "path": "../ShoppingBasket.Common/ShoppingBasket.Common.csproj",
+      "msbuildProject": "../ShoppingBasket.Common/ShoppingBasket.Common.csproj"
+    },
+    "ShoppingBasket.Data/1.0.0": {
+      "type": "project",
+      "path": "../ShoppingBasket.Data/ShoppingBasket.Data.csproj",
+      "msbuildProject": "../ShoppingBasket.Data/ShoppingBasket.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ShoppingBasket.BussinessLogic >= 1.0.0",
+      "ShoppingBasket.Common >= 1.0.0",
+      "ShoppingBasket.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yordan.georgiev\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\TASK\\Version3\\ShoppingBasket\\ShoppingBasket.Services\\ShoppingBasket.Services.csproj",
+      "projectName": "ShoppingBasket.Services",
+      "projectPath": "C:\\TASK\\Version3\\ShoppingBasket\\ShoppingBasket.Services\\ShoppingBasket.Services.csproj",
+      "packagesPath": "C:\\Users\\yordan.georgiev\\.nuget\\packages\\",
+      "outputPath": "C:\\TASK\\Version3\\ShoppingBasket\\ShoppingBasket.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\yordan.georgiev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\TASK\\Version3\\ShoppingBasket\\ShoppingBasket.BussinessLogic\\ShoppingBasket.BussinessLogic.csproj": {
+              "projectPath": "C:\\TASK\\Version3\\ShoppingBasket\\ShoppingBasket.BussinessLogic\\ShoppingBasket.BussinessLogic.csproj"
+            },
+            "C:\\TASK\\Version3\\ShoppingBasket\\ShoppingBasket.Common\\ShoppingBasket.Common.csproj": {
+              "projectPath": "C:\\TASK\\Version3\\ShoppingBasket\\ShoppingBasket.Common\\ShoppingBasket.Common.csproj"
+            },
+            "C:\\TASK\\Version3\\ShoppingBasket\\ShoppingBasket.Data\\ShoppingBasket.Data.csproj": {
+              "projectPath": "C:\\TASK\\Version3\\ShoppingBasket\\ShoppingBasket.Data\\ShoppingBasket.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

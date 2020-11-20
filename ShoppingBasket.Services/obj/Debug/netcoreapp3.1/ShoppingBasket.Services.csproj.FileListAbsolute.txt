@@ -1,0 +1,16 @@
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\bin\Debug\netcoreapp3.1\ShoppingBasket.Services.deps.json
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\bin\Debug\netcoreapp3.1\ShoppingBasket.Services.dll
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\bin\Debug\netcoreapp3.1\ShoppingBasket.Services.pdb
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\bin\Debug\netcoreapp3.1\ShoppingBasket.BussinessLogic.dll
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\bin\Debug\netcoreapp3.1\ShoppingBasket.Common.dll
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\bin\Debug\netcoreapp3.1\ShoppingBasket.Data.dll
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\bin\Debug\netcoreapp3.1\ShoppingBasket.BussinessLogic.pdb
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\bin\Debug\netcoreapp3.1\ShoppingBasket.Common.pdb
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\bin\Debug\netcoreapp3.1\ShoppingBasket.Data.pdb
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\obj\Debug\netcoreapp3.1\ShoppingBasket.Services.csprojAssemblyReference.cache
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\obj\Debug\netcoreapp3.1\ShoppingBasket.Services.AssemblyInfoInputs.cache
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\obj\Debug\netcoreapp3.1\ShoppingBasket.Services.AssemblyInfo.cs
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\obj\Debug\netcoreapp3.1\ShoppingBasket.Services.csproj.CoreCompileInputs.cache
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\obj\Debug\netcoreapp3.1\ShoppingBasket.Services.csproj.CopyComplete
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\obj\Debug\netcoreapp3.1\ShoppingBasket.Services.dll
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Services\obj\Debug\netcoreapp3.1\ShoppingBasket.Services.pdb

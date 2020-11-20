@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShoppingBasket.BussinessLogic\ShoppingBasket.BussinessLogic.csproj" />
+    <ProjectReference Include="..\ShoppingBasket.Common\ShoppingBasket.Common.csproj" />
+    <ProjectReference Include="..\ShoppingBasket.Data\ShoppingBasket.Data.csproj" />
+  </ItemGroup>
+
+</Project>

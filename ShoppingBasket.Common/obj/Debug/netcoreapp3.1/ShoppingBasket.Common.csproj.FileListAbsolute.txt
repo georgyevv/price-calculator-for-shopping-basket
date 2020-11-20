@@ -1,0 +1,9 @@
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Common\bin\Debug\netcoreapp3.1\ShoppingBasket.Common.deps.json
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Common\bin\Debug\netcoreapp3.1\ShoppingBasket.Common.dll
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Common\bin\Debug\netcoreapp3.1\ShoppingBasket.Common.pdb
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Common\obj\Debug\netcoreapp3.1\ShoppingBasket.Common.csprojAssemblyReference.cache
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Common\obj\Debug\netcoreapp3.1\ShoppingBasket.Common.AssemblyInfoInputs.cache
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Common\obj\Debug\netcoreapp3.1\ShoppingBasket.Common.AssemblyInfo.cs
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Common\obj\Debug\netcoreapp3.1\ShoppingBasket.Common.csproj.CoreCompileInputs.cache
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Common\obj\Debug\netcoreapp3.1\ShoppingBasket.Common.dll
+C:\TASK\Version3\ShoppingBasket\ShoppingBasket.Common\obj\Debug\netcoreapp3.1\ShoppingBasket.Common.pdb
